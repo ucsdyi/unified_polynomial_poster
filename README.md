@@ -1,1 +1,1 @@
-# unified_polynomial_slides
+# Poster for the paper 
